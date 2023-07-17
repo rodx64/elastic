@@ -5,7 +5,7 @@ mvnw.cmd
 /target
 
 # Config
-/setup/.env
+/setup/compose/.env
 /setup/certs/
 /setup/elasticdata/
 /setup/kibanadata/
