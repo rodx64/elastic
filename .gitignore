@@ -10,3 +10,5 @@ mvnw.cmd
 /setup/elasticdata/
 /setup/kibanadata/
 /setup/postman
+
+src/main/resources/application.yml
